@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "960103685441",
+    "firebase_url": "https://facebee-390c0.firebaseio.com",
+    "project_id": "facebee-390c0",
+    "storage_bucket": "facebee-390c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960103685441:android:dbf33c844da9a5795655c0",
+        "android_client_info": {
+          "package_name": "com.mag.facebee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960103685441-2j5l767n8o2lss7unpusku5cki0rgp9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mag.facebee",
+            "certificate_hash": "d9fb206c861102a03c56d8d721697d435cb25286"
+          }
+        },
+        {
+          "client_id": "960103685441-bokugc80pe58dl4k4pii17ub28btl8va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8bWfdkzNPv3PytsYwqkt24-Ho899etAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960103685441-bokugc80pe58dl4k4pii17ub28btl8va.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
